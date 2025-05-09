@@ -7,7 +7,7 @@ The dataset consists of data on 500 Megaline clients for the year 2018, includin
 ## 📂 Datasets
 - megaline_calls.csv - records of call durations per user
 - megaline_messages.csv - number of messages sent
-- megaline_internet.csv - megabytes used un each web session
+- megaline_internet.csv - megabytes used in each web session
 - megaline_users.csv - client profiles and their subscribed plan 
 - megaline_plans.csv - plan details for Surf and Ultimate
 
