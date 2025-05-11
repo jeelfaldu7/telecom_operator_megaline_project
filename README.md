@@ -48,3 +48,7 @@ Run the analysis in a Jupyter Notebook. Include:
   - Code in code cells
   - Explanations in Markdown cells
   - Appropriate use of visualizations, descriptive statistics, and hypothesis testing
+
+## 🤝 Credits
+This project was created as part of the TripleTen Data Science program. Special thanks to:
+  - TripleTen instructors and peers for ongoing support and feedback. 
